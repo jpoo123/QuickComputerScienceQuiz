@@ -2395,7 +2395,8 @@ def play_quiz(user_data):
     print("Welcome to my revision quiz!")
     time.sleep(0.5)
     print("""
-OPTINS during quiz:
+
+OPTIONS during quiz:
 
 Don't worry if you make a mistake - it allows you to go back and retype your answer :)
 
