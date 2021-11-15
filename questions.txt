@@ -1,0 +1,94 @@
+1: Which kind of memory is volatile?: RAM: Random Access Memory
+2: What number system do computers use?: Binary: base-2: base 2
+3: What type of secondary storage is used in laptops?: Solid State drive: Solid-State: Solid State: SSD
+4: What is the main processing component in a computer?: CPU: Central Processing Unit
+5: Is a logic error when the program is not able to run? (y/n): no: n
+6: Is a constant able to change its value in a program? (y/n): no: n
+7: Which logic gate inverses the output?: NOT gate: NOT
+8: Which logic gate needs 2 False values to be False?: OR gate: OR
+9: Is an IF statement an example of iteration? (y/n): no: n
+10: Which type of compression loses data?: lossy compression: lossy
+11: For efficiency, bubble sort or merge sort?: Merge Sort: merge
+12: What does BIOS stand for?: Basic Input Output System: Basic Input and Output System
+13: What is the fastest form of memory in a computer?: registers or cache: cache: registers
+14: Complete the senetence - An array is a data structure that can store a group of data values of the ____ type under 1 name.: same: similar
+15: Name a common operating system.: Android, iOS, Windows etc.: Android: iOS: MacOS: Windows: Linux: Microsoft Windows
+16: Complete the sentence - A disadvantage of the cloud is that you need an ________ connection to access it.: internet
+17: Complete the sentence - More cores in a CPU _________ the speed of it: increases: increase
+18: TRUE or FALSE - Less RAM means not all application data will be able to stay loaded in it at once.: TRUE: T
+19: Is a Boolean value this - [0,1,2,3,4,5,6,7,8,9]? (y/n): no: n
+20: TRUE or FALSE - Solid State Drives are cheaper than Magnetic Hard Drives.: FALSE: F
+21: TRUE or FALSE - A computer needs a GPU to operate.: FALSE: F
+22: What comes first in order of increasing size - Terabyte, Kilobyte, Gigabyte, Megabyte: Kilobyte: kb: 2: kilo:k
+23: How much is 200 megabytes in gigabytes?: 0.2 gigabytes: 0.2: 2/10
+24: If I were to increase the sample rate of my audio file, what would increase in size?: file size: size: size of file: file: the file: the file size: mb: gb: megabytes: gigabytes
+25: TRUE or FALSE - Psuedocode has a very tight syntax.: FALSE: F
+26: How many colours does a 1-Bit image have?: 2 colours: 2
+27: How many colours does a 4-Bit image have?: 16 colours: 16
+28: Is boundary data normal data that a user would be expected to type in? (y/n): no: n
+29: What is the maximum decimal number of 1 byte?: 255
+30: How many bits does an ASCII character contain?: 7
+31: TRUE or FALSE - Python is a high-level language.: TRUE: T
+32: (Pg. 78) Complete the sentence about the Fetch Instruction in the Fetch-Execute Cycle - (1) The control unit reads the memory _______ of the next CPU instruction.: address: location: place
+33: (Pg. 78) Complete the sentence about the Fetch Instruction in the Fetch-Execute Cycle - (2) The instruction stored in the memory address gets copied from memory to one of the _________.: registers: register
+34: (Pg. 78) Complete the sentence about the Fetch Instruction in the Fetch-Execute Cycle - (3) The memory address in the control unit is ___________ to point to the address of the next instruction, ready for the next cycle.: incremented: increment: increased: increase
+35: (Pg. 78) Complete the sentence about the Decode Instruction in the Fetch-Execute Cycle - (1) The instruction that was copied from the ______ is decoded by the control unit.: memory: ram: random access memory
+36: (Pg. 78) Complete the sentence about the Decode Instruction in the Fetch-Execute Cycle - (2) The control unit prepares for the next step by loading other values into the _________.: registers: register
+37: (Pg. 78) Complete the sentence about the Execute Instruction in the Fetch-Execute Cycle - (1) The intruction is ________.: executed: performed
+38: (Pg. 78) Complete the sentence about the Execute Instruction in the Fetch-Execute Cycle - (2) The instruction may be to load data from ______.: memory: ram: random access memory
+39: (Pg. 78) Complete the sentence about the Execute Instruction in the Fetch-Execute Cycle - (3) The instruction may be to _____ data to memory.: write: move
+40: (Pg. 78) Complete the sentence about the Execute Instruction in the Fetch-Execute Cycle - (4) The instruction may be to do a calculation or _____ operation using the ALU.: logic
+41: TRUE or FALSE - An example of an input and output device is a smartphone.: TRUE: T
+42: TRUE or FALSE - An example of an output device is a keyboard.: FALSE: F
+43: TRUE or FALSE - An example of an input device is a monitor.: FALSE: F
+44: TRUE or FALSE - A computer is a machine that only processes dates.: FALSE: F
+45: Name an example of a lossy file type. (pg. 68): MP3 (audio) or AAC (audio) or JPEG (image): MP3: AAC: JPEG: GIF: OGG: MP4: AC3: AIFF: RA: AU: DTS: FLV: MPG: WMV: AUS: F4F: FLX: MSH: DPG: RMD: RTS: WEBP: WMF: JPS: MPO: PAM: CGM: EXIF: PPM
+46: Name an example of a lossless file type. (pg. 68): FLAC (audio) or TIFF (image) or PNG (image): FLAC: TIFF: PNG: RAW: ALAC: WAV: BMP: APE: WMA: DSD: WP: SHN: ATRAC: TTA: ASF: AVI: DV: MOV: M4A: SVD: VOB: SWF: MOOV: ILBM: RLE: IFF: TIFF: PGF: GIF: GPL: SVG
+47: Complete the equation - Total File Size (in bits) = image size x colour depth = width x ______ x colour depth.: height: h
+48: Complete the equation - Total number of colours = 2^n (where n = number of ____ per pixel, or bpp).: bits: bit
+49: Complete the equation - Bit rate = sample ____ x sample resolution.: rate
+50: Complete the equation - File size (in bits) = sample rate (Hz) x sample __________ x length (seconds).: resolution: resolutions
+51: TRUE or FALSE - Increasing the sample rate means the digital file picks up quieter sounds.: FALSE (this is sample resolution): FALSE: F
+52: TRUE or FALSE - Increasing the sample resolution means the file picks up quieter sounds.: TRUE: T
+53: TRUE or FALSE - Increasing the sample rate means the analogue recording is sampled more often leading to better sound quality.: TRUE: T
+54: What is 0101 in denary?: 5: five
+55: What is 1111 in denary?: 15: fifteen
+56: What is 1001 in denary?: 9: nine
+57: Is 1010 1010 1010 1010 an odd number in denary? (y/n): no: n
+58: What is 1110 in hexidecimal?: E
+59: What is 1010 in hexidecimal?: A
+60: What is 0011 in hexidecimal?: 3: three
+61: What is 1010 0101 in hexidecimal?: A5: A,5: A, 5: A 5
+62: What is 98 (denary value) in hexidecimal?: 62: 6,2: 6, 2: 6 2
+63: What is 65 (denary value) in binary?: 0100 0001: 01000001: 1000001
+64: What is an example of iteration?: WHILE loop or FOR loop: WHILE loop: FOR loop: WHILE: FOR
+65: What is an example of selection?: IF statement: IF
+66: What command is used to find the length of a string in python?: len(stringname): len(): len
+67: Type the 'not equal to' sign used in python.: !=
+68: Type the 'equal to' sign used in python.: ==
+69: What is 69 (denary value) in binary?: 0100 0101: 01000101: 1000101: nice
+70: What WORD does the colon represent in the following statement - 'if python == bad:'?: THEN
+71: What is the WORD for numbers that have a decimal part?: real or float: real: float
+72: What is the WORD for a whole number?: integer: int
+73: What is the WORD for a collection of characters, often used to represent text?: string
+74: What is the WORD for a value which can only take one of two values, typically true or false?: Boolean: Bool
+75: Name 1 main component in a CPU.: CU, ALU, Cache, Clock, Buses: Control Unit: CU: Arithmetic Logic Unit: ALU: Cache: Clock: the Clock: Bus: Buses: Registers
+76: Is a dishwasher an example of an embedded system? (y/n): yes: y
+77: Is a laptop an example of an embedded system? (y/n): no: n
+78: Complete the sentence - 2 types of software is application software and ______ software: system: operating system: internal
+79: What is the WORD for a single letter, number or symbol?: character: char
+80: What is the operator for a remainder division or modulus?: MOD or %: MOD: %
+81: What is the operator for an integer division?: DIV
+82: TRUE or FALSE - A disadvantage of binary search is that the items have to be ordered before conducting the search.: TRUE: T
+83: TRUE or FALSE - Linear search is more efficient than binary search in large ordered lists.: FALSE: F
+84: TRUE or FALSE - A linear search can be used on an unordered list.: TRUE: T
+85: What is the WORD for when you pick out the important bits of information from the problem, ignoring specific details that don't matter?: abstraction
+86: What is the WORD for when you break down a complex problem into smaller problems and solve each one individually?: decomposition
+87: What is the PHRASE for a logical way of getting from the problem to the solution?: algorithmic thinking: algorithmic: thinking
+88: What is the WORD for something which isn't an actual programming language but should follow a similar structure and read like one (roughly)?: pseudo-code: pseudo code: pseudo: pseudocode
+89: What does the operator <-- in Pseudocode represent in Python?: =: equals: equals sign
+90: TRUE or FALSE - Strings cannot be manipulated.: FALSE: F
+91: What do you write at the end of an IF statement in Pseudocode?: ENDIF: END
+92: TRUE or FALSE - Both arrays and lists cannot be changed.: FALSE: F
+93: TRUE or FALSE - You can only add 1 data type of character to an array.: TRUE: T
+94: Is a speaker an output device? (y/n): yes: y

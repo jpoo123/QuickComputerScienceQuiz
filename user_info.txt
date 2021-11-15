@@ -1,0 +1,2 @@
+{"Username": "ADMIN", "PIN": "qwerty", "Age": "0", "Score": "0", "Fun Fact": "This account can access all accounts without their password.", "Remember PIN": "False"}
+{"Username": "jpoo", "PIN": "212", "Age": "15", "Score": "56", "Fun Fact": "My real name is jpoo", "Remember PIN": "False"}
